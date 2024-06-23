@@ -1,0 +1,52 @@
+{
+	"Metadata":
+	{
+		"Name": "Another shadow the hedgehog mod",
+		"Author": "Manardo,Plush noob",
+		"Description": "Another shadow the hedgehog sprite mod by me. (Early build, DO NOT DISTRIBUTE)",
+		"URL": "Null",
+		"ModVersion": "V1",
+		"GameVersion": "20.04.19.0"
+	},
+	"Settings": 
+	{
+    	"Group1": 
+		[
+			{
+				"InternalName": "stuff",
+				"DisplayName": "Skins",
+				"Variable": "test",
+				"DefaultValue": "0",
+				"Category": "Appearance",
+				"Options": 
+				{
+					  "0": "Classic Red (Default)",
+					  "1": "2 Player Yellow",
+					  "2": "Mephiles (Shadow Form)",
+					  //"3": "Evil Red (Android)",
+					  //"4": "Metallic Blue (Android)",
+					  //"5": "Steel Pink (Android)",
+					  //"6": "Industral Orange (Android)",
+					  //"7": "Mechannical Green (Android)"
+				}
+			}
+			
+			/*
+			{
+				"InternalName": "stuff2",
+				"DisplayName": "Unique Super Shadow",
+				"Variable": "Sshadowskin",
+				"DefaultValue": "0",
+				"Category": "Appearance",
+				"Options": 
+				{
+					  "0": "Both Super and Hyper",
+					  "1": "Just Hyper",
+					  "2": "Disabled",
+				}
+			}
+			*/
+			
+		]
+	}
+}
