@@ -1,0 +1,39 @@
+//this really shadows my hedgehog
+global u8 test
+//global u8 Sshadowskin
+function string getCharacterPaletteKey(u8 character)
+{
+	if (character == CHARACTER_SONIC)
+        return stringformat("character_palette_sonic_0%d", test)
+    return base.getCharacterPaletteKey(character)
+}
+
+function string getCharacterSpriteKey(u8 character, bool isSuperActive)
+{
+    if (u8[0xffffE654] == 0 && (global.game_mode  == 0x0c || global.game_mode  == 0x08) && test) 
+    {
+        if (character == CHARACTER_SONIC)
+        {
+            if (test <= 1)
+			{
+				//if (Sshadowskin = 2)
+				//{
+					//return (isSuperActive) ? "character_supersonic_alt" : "character_sonic"
+				//}
+				//else
+				//{
+					return (isSuperActive) ? "character_supersonic" : "character_sonic"
+				//}
+			}
+            else if (test == 2)
+			{
+            return (isSuperActive) ? "character_supersonic_01" :"character_sonic_01"
+			}
+            else //remaining palettes
+			{
+            return (isSuperActive) ? "character_supersonic_02" : "character_sonic_02"
+			}
+        }
+    }
+    return base.getCharacterSpriteKey(character, isSuperActive)
+}
