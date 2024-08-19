@@ -1,0 +1,5 @@
+{
+	"ESS_Char_Sonic":  { "File": "dataSel_sonic.bmp", "Rect": "0,0,32,40", "Center": "16,40" },
+	"ESS_Life_Sonic":  { "File": "icons.png", "Rect": "0,0,16,16", "Center": "8,16" },
+	"ESS_Cont_Sonic":  { "File": "icons.png", "Rect": "0,16,20,24", "Center": "8,24" }
+}

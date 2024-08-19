@@ -1,0 +1,13 @@
+{
+	"bluesphere_sonic_0x01":  { "File": "bluesphere_sonic.bmp", "Rect": "0,8,35,41", "Center": "18,35" },
+	"bluesphere_sonic_0x02":  { "File": "bluesphere_sonic.bmp", "Rect": "35,4,35,48", "Center": "18,43" },
+	"bluesphere_sonic_0x03":  { "File": "bluesphere_sonic.bmp", "Rect": "70,0,34,56", "Center": "18,43" },
+	"bluesphere_sonic_0x04":  { "File": "bluesphere_sonic.bmp", "Rect": "104,0,35,56", "Center": "19,43" },
+	"bluesphere_sonic_0x05":  { "File": "bluesphere_sonic.bmp", "Rect": "139,0,34,56", "Center": "20,43" },
+	"bluesphere_sonic_0x06":  { "File": "bluesphere_sonic.bmp", "Rect": "173,0,35,56", "Center": "18,43" },
+	"bluesphere_sonic_0x07":  { "File": "bluesphere_sonic.bmp", "Rect": "209,0,34,56", "Center": "16,43" },
+	"bluesphere_sonic_0x08":  { "File": "bluesphere_sonic.bmp", "Rect": "243,0,35,56", "Center": "16,43" },
+	"bluesphere_sonic_0x09":  { "File": "bluesphere_sonic.bmp", "Rect": "278,11,32,32", "Center": "16,38" },
+	"bluesphere_sonic_0x0a":  { "File": "bluesphere_sonic.bmp", "Rect": "310,11,32,32", "Center": "16,38" },
+	"bluesphere_sonic_0x0b":  { "File": "bluesphere_sonic.bmp", "Rect": "342,11,32,32", "Center": "16,38" }
+}

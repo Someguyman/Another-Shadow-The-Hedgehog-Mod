@@ -1,0 +1,6 @@
+{
+	"sonic_peelout_0":  { "File": "character_sonic_peelout.bmp", "Rect": "0,0,41,40", "Center": "20,20" },
+	"sonic_peelout_1":  { "File": "character_sonic_peelout.bmp", "Rect": "41,0,39,40", "Center": "20,20" },
+	"sonic_peelout_2":  { "File": "character_sonic_peelout.bmp", "Rect": "81,0,41,40", "Center": "20,20" },
+	"sonic_peelout_3":  { "File": "character_sonic_peelout.bmp", "Rect": "122,0,39,40", "Center": "20,20" }
+}

@@ -1,0 +1,5 @@
+{
+	"result_nameplate_sonic":  { "File": "result_sprites.png", "Rect": "0,0,99,16", "Center": "26,0" },
+	"result_nameplate_sonic_super":  { "File": "result_sprites.png", "Rect": "117,0,80,16", "Center": "0,0" },
+	"result_nameplate_sonic_hyper":  { "File": "result_sprites.png", "Rect": "205,0,80,16", "Center": "0,0" }
+}

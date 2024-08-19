@@ -1,0 +1,6 @@
+{
+	"Super_Sonic_fall_CD_beta":  { "File": "Falling_Sonics.bmp", "Rect": "40,0,37,49", "Center": "16,25" },
+	"Sonic_fall_CD_beta":  { "File": "Falling_Sonics.bmp", "Rect": "0,2,37,47", "Center": "16,23" },
+	"Sonic_fall_CD":  { "File": "Falling_Sonics.bmp", "Rect": "0,2,37,47", "Center": "16,23" },
+	"Super_Sonic_fall_CD":  { "File": "Falling_Sonics.bmp", "Rect": "40,0,37,49", "Center": "16,25" }
+}
