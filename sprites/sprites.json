@@ -1,0 +1,9 @@
+{
+	"S3Complete_LevelSelectIcon_Sonic3": { "File": "levelselect_icons.png", "Rect": "0,0,16,16"},
+	"S3Complete_LevelSelectIcon_Sonic2": { "File": "levelselect_icons.png", "Rect": "0,16,16,16"},
+	"S3Complete_LevelSelectIcon_Sonic1": { "File": "levelselect_icons.png", "Rect": "0,32,16,16"},
+	"S3Complete_LevelSelectIcon_Sonic1Acc": { "File": "levelselect_icons.png", "Rect": "0,48,16,16"},
+	"S3Complete_LevelSelectIcon_Sonic2Acc": { "File": "levelselect_icons.png", "Rect": "0,64,16,16"},
+	"S3Complete_LevelSelectIcon_Sonic2Mobile": { "File": "levelselect_icons.png", "Rect": "0,80,16,16"},
+	"S3Complete_LevelSelectIcon_SonicCD": { "File": "levelselect_icons.png", "Rect": "0,96,16,16"},
+}

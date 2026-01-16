@@ -1,0 +1,5 @@
+{
+	"ESS_Zone_Sonic_0":  { "File": "ZoneIcons_Finished.png", "Rect": "0,0,80,56", "Center": "40,28" },
+	"ESS_Zone_Sonic_1":  { "File": "ZoneIcons_Finished.png", "Rect": "80,0,80,56", "Center": "40,28" },
+	"ESS_Zone_Sonic_2":  { "File": "ZoneIcons_Finished.png", "Rect": "160,0,80,56", "Center": "40,28" }
+}
